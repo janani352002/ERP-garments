@@ -1,0 +1,8 @@
+{
+  "name": "AR Tex",
+  "description": "Industrial Garment Production, Piece-Rate Salary & Profit Tracker ERP for apparel manufacturing and job-work clusters",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
